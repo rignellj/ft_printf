@@ -9,3 +9,5 @@ Are you tired of using alternatively ft_putstr and ft_putnbr for your displays? 
 - You must manage the flags #0-+ and space
 - You must manage the minimum field-width
 - You must manage the precision]
+- This printf also handles conversation b: prints integers in binary
+- Printf manages *: width and precision
